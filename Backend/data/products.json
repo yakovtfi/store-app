@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Canvas Backpack",
+    "price": 44.99,
+    "category": "Accessories",
+    "description": "A simple everyday backpack with space for a laptop and notebooks.",
+    "image": "BAG"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Headphones",
+    "price": 89.5,
+    "category": "Audio",
+    "description": "Comfortable headphones with a clean design for long study sessions.",
+    "image": "AUDIO"
+  },
+  {
+    "id": 3,
+    "name": "Desk Lamp",
+    "price": 32,
+    "category": "Home Office",
+    "description": "An adjustable lamp that makes any desk setup feel more focused.",
+    "image": "LAMP"
+  },
+  {
+    "id": 4,
+    "name": "Ceramic Mug",
+    "price": 14.25,
+    "category": "Kitchen",
+    "description": "A sturdy mug for coffee, tea, or whatever keeps the coding going.",
+    "image": "MUG"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "price": 119.99,
+    "category": "Tech",
+    "description": "A compact keyboard with tactile switches and a soft white backlight.",
+    "image": "KEYS"
+  },
+  {
+    "id": 6,
+    "name": "Water Bottle",
+    "price": 18.75,
+    "category": "Lifestyle",
+    "description": "A lightweight bottle that is easy to carry between classes or work.",
+    "image": "BOTTLE"
+  }
+]
