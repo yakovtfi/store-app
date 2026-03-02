@@ -1,5 +1,4 @@
-import { readProducts } from "../services/RedjsonFile";
-import { writeProducts } from "../services/RedjsonFile";
+import { readProducts, writeProducts } from "../services/RedjsonFile.js";
 
 export async function getProducts(req, res) {
   try {
